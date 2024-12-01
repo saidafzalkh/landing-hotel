@@ -1,0 +1,14 @@
+{
+  "main": {
+    "welcome": "Globus Hotel Toshkentga Xush Kelibsiz",
+    "description": "Qulaylik va hashamatni kashf eting."
+  },
+  "about": {
+    "title": "Biz Haqimizda",
+    "content": "Globus Hotel Toshkent dunyo darajasidagi qulayliklarni taklif etadi."
+  },
+  "booking": {
+    "title": "O'zingizni Xonani Band Qiling",
+    "description": "Bizning tizim orqali xonani osongina band qiling."
+  }
+}

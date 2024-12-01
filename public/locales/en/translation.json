@@ -1,0 +1,14 @@
+{
+  "main": {
+    "welcome": "Welcome to Globus Hotel Tashkent",
+    "description": "Discover the ultimate comfort and luxury."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "Globus Hotel Tashkent is a premium hotel offering world-class amenities."
+  },
+  "booking": {
+    "title": "Book Your Stay",
+    "description": "Easily book a room with our integrated system."
+  }
+}
