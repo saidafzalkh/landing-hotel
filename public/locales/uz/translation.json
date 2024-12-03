@@ -1,14 +1,62 @@
 {
-  "main": {
-    "welcome": "Globus Hotel Toshkentga Xush Kelibsiz",
-    "description": "Qulaylik va hashamatni kashf eting."
+  "hero": {
+    "title": "Mehmonxonamizga xush kelibsiz",
+    "subtitle": "Go'zal manzaralar va hashamatli xizmatdan zavqlaning.",
+    "cta": "Buyurtma qilish"
+  },
+  "header": {
+    "logo": "GLOBUS MEHMONXONASI",
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "rooms": "Xonalar",
+    "booking": "Buyurtma qilish"
   },
   "about": {
-    "title": "Biz Haqimizda",
-    "content": "Globus Hotel Toshkent dunyo darajasidagi qulayliklarni taklif etadi."
+    "why_choose_us": "Nima uchun bizni tanlashingiz kerak",
+    "main_title": "Oddiy va qulay muloqot tartibi",
+    "process_title": "Oddiy jarayon",
+    "process_description": "Biz bilan yashash joyingizni oson va qulay tarzda bron qiling.",
+    "documentation_title": "Tezkor hujjatlar",
+    "documentation_description": "Buxgalteriya va sayohat hujjatlarini tezkor qayta ishlashni ta'minlaymiz.",
+    "group_services_title": "Guruh uchun maxsus xizmatlar",
+    "group_services_description": "5-40 kishilik guruhlar uchun ovqatlanishni so'rang.",
+    "discount_title": "Kafolatlangan chegirmalar",
+    "discount_description": "Kafolatlangan bron qilish bilan chegirmalardan bahramand bo'ling.",
+    "no_intermediaries_title": "Vositachilarsiz",
+    "no_intermediaries_description": "To'g'ridan-to'g'ri biz bilan bron qilish orqali pulni tejang.",
+    "read_more": "Batafsil"
   },
-  "booking": {
-    "title": "O'zingizni Xonani Band Qiling",
-    "description": "Bizning tizim orqali xonani osongina band qiling."
+  "footer": {
+    "links_title": "Tezkor havolalar",
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "contact": "Aloqa",
+    "contact_title": "Aloqa ma'lumotlari",
+    "phone": "Telefon",
+    "email": "Elektron pochta",
+    "address": "Manzil",
+    "address_text": "Toshkent shahar, Yashnobod tumani, Sandiqli 1-tor, 13-uy",
+    "map_title": "Bizning joylashuvimiz",
+    "to_top": "Yuqoriga qaytish",
+    "rights_reserved": "Barcha huquqlar himoyalangan."
+  },
+  "rooms": {
+    "title": "Bizning Xonalarimiz",
+    "categories": {
+      "single_room": "Yakka xona",
+      "double_room": "Ikki kishilik xona",
+      "suite_single": "Lyuks (Yakka)",
+      "suite_double": "Lyuks (Ikki kishilik)",
+      "triple_room": "Uch kishilik xona"
+    },
+    "features": {
+      "single_room": "Qulay yotoq, Wi-Fi va shaxsiy hammom.",
+      "double_room": "Keng xona, ikki kishilik karavot va zamonaviy qulayliklar.",
+      "suite_single": "Bitta odam uchun hashamatli lyuks.",
+      "suite_double": "Ikki kishilik lyuks, katta yashash maydoni bilan.",
+      "triple_room": "Oilalar uchun mo‘ljallangan, uchta qulay karavot."
+    },
+    "read_more": "Batafsil"
   }
 }

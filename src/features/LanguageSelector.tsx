@@ -25,7 +25,7 @@ const customStyles: StylesConfig<LanguageOption, false> = {
     border: "none",
     boxShadow: "none",
     minHeight: "auto",
-    color: "gray",
+    color: "#4b5563",
     cursor: "pointer",
     width: "150px",
   }),

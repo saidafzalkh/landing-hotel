@@ -1,14 +1,62 @@
 {
-  "main": {
-    "welcome": "Welcome to Globus Hotel Tashkent",
-    "description": "Discover the ultimate comfort and luxury."
+  "hero": {
+    "title": "Welcome to Our Hotel",
+    "subtitle": "Experience the best stay with stunning views and luxury service.",
+    "cta": "Book Now"
+  },
+  "header": {
+    "logo": "GLOBUS HOTEL",
+    "home": "Home",
+    "about": "About",
+    "rooms": "Rooms",
+    "booking": "Booking"
   },
   "about": {
-    "title": "About Us",
-    "content": "Globus Hotel Tashkent is a premium hotel offering world-class amenities."
+    "why_choose_us": "Why You Should Choose Us",
+    "main_title": "Simple and Convenient Interaction",
+    "process_title": "Simple Process",
+    "process_description": "Experience a hassle-free way to book your stay with us.",
+    "documentation_title": "Quick Documentation",
+    "documentation_description": "We ensure fast processing of accounting and travel documents.",
+    "group_services_title": "Special Group Services",
+    "group_services_description": "Request catering for groups of 5-40 guests.",
+    "discount_title": "Guaranteed Discounts",
+    "discount_description": "Enjoy discounted rates with guaranteed room bookings.",
+    "no_intermediaries_title": "No Intermediaries",
+    "no_intermediaries_description": "Save money by booking directly with us.",
+    "read_more": "Read More"
   },
-  "booking": {
-    "title": "Book Your Stay",
-    "description": "Easily book a room with our integrated system."
+  "footer": {
+    "links_title": "Quick Links",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "contact_title": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "address_text": "Tashkent city, Yashnabad district, Sandikli 1st Lane, House 13",
+    "map_title": "Our Location",
+    "to_top": "Back to Top",
+    "rights_reserved": "All rights reserved."
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "categories": {
+      "single_room": "Single Room",
+      "double_room": "Double Room",
+      "suite_single": "Suite (Single)",
+      "suite_double": "Suite (Double)",
+      "triple_room": "Triple Room"
+    },
+    "features": {
+      "single_room": "Comfortable bed, Wi-Fi, and private bathroom.",
+      "double_room": "Spacious room with double bed and modern amenities.",
+      "suite_single": "Luxurious single suite with premium facilities.",
+      "suite_double": "Double suite with spacious living area.",
+      "triple_room": "Perfect for families with three comfortable beds."
+    },
+    "read_more": "Read More"
   }
 }
