@@ -7,13 +7,6 @@ const AboutSection = () => {
   return (
     <section className="bg-gray-50 py-16">
       <div className="max-w-7xl mx-auto px-4 lg:px-8">
-        {/* Small Title */}
-        {/* <p
-          className="text-xl font-semibold text-gray-600 mb-4"
-          data-aos="fade-up"
-        >
-        </p> */}
-        {/* Main Title */}
         <h1
           className="text-4xl lg:text-6xl font-bold text-gray-800 mb-12 text-center"
           data-aos="fade-up"
@@ -22,7 +15,7 @@ const AboutSection = () => {
           {/* {t("about.main_title")} */}
         </h1>
         {/* Supporting Text */}
-        <div className="flex flex-col md:flex-row gap-4 items-center">
+        <div className="flex flex-col md:flex-row gap-8 items-center">
           <div className="hidden sm:block">
             <img src={imageAbout} alt="" />
           </div>

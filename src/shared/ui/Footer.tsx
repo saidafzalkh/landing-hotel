@@ -83,12 +83,16 @@ const Footer = () => {
             {t("footer.contact_title")}
           </h3>
           <p>
-            {t("footer.phone")}: <br /> +998 99 055 69 99 <br /> +998 95 196 69
-            99
+            <span className="font-bold">{t("footer.phone")}:</span>
+            <br /> +998 99 055 69 99 <br /> +998 95 196 69 99
           </p>
-          <p>{t("footer.email")}: globushotelsgroup@gmail.com</p>
           <p>
-            {t("footer.address")}: {t("footer.address_text")}
+            <span className="font-bold">{t("footer.email")}:</span> <br />
+            globushotelsgroup@gmail.com
+          </p>
+          <p>
+            <span className="font-bold">{t("footer.address")}:</span> <br />
+            {t("footer.address_text")}
           </p>
         </div>
 

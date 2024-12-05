@@ -1,7 +1,7 @@
 {
   "hero": {
-    "title": "Mehmonxonamizga xush kelibsiz",
-    "subtitle": "Go'zal manzaralar va hashamatli xizmatdan zavqlaning.",
+    "title": "\"Globus\" mehmonxonasi — sizning qulay maskaningiz va hashamatli dam olish joyingiz.",
+    "subtitle": "Biz mehmonlarimizga turli toifadagi xonalarni taklif etamiz va ularga alohida qulaylik darajasini taqdim etamiz.",
     "cta": "Buyurtma qilish"
   },
   "header": {
@@ -58,5 +58,51 @@
       "triple_room": "Oilalar uchun mo‘ljallangan, uchta qulay karavot."
     },
     "read_more": "Batafsil"
+  },
+  "privileges": {
+    "title": "Bizning mehmonlarimiz uchun imtiyozlar",
+    "description": "Sizning qulay dam olishingiz uchun eng yaxshi sharoitlarni taklif qilamiz.",
+    "items": [
+      {
+        "title": "Shved stoli",
+        "description": "Issiq taomlar, mevalar, sut mahsulotlari, pishiriqlar, sharbat, qahva va choy."
+      },
+      {
+        "title": "Nonushta",
+        "description": "Energiya va metabolizm uchun eng muhim ovqat."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Mehmonlarimizga taqdim etilgan imkoniyatlar",
+    "description": "Har bir mijozimiz quyidagi qulayliklardan foydalanadi:",
+    "internet": {
+      "title": "Tezkor internet",
+      "description": "Har bir xonada internetga ulanish."
+    },
+    "lcd_tv": {
+      "title": "LCD televizorlar",
+      "description": "32 dyuym ekranli televizorlar har bir xonada."
+    },
+    "air_conditioning": {
+      "title": "Konditsioner tizimi",
+      "description": "Shaxsiy iqlim nazorati tizimi."
+    },
+    "bottled_water": {
+      "title": "Shishadagi suv",
+      "description": "Kuniga 2 ta suv bepul."
+    },
+    "transfer": {
+      "title": "Transfer xizmati",
+      "description": "So'rov bo'yicha transfer tashkiloti."
+    },
+    "room_service": {
+      "title": "24/7 Xizmat",
+      "description": "Kunduzgi va tungi xonaga xizmat."
+    },
+    "laundry_ironing": {
+      "title": "Kir yuvish va dazmollash",
+      "description": "So'rov bo'yicha mavjud."
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "hero": {
-    "title": "Welcome to Our Hotel",
-    "subtitle": "Experience the best stay with stunning views and luxury service.",
+    "title": "Hotel \"Globus\" — your cozy retreat and luxury getaway.",
+    "subtitle": "We offer rooms of various categories, ensuring an exceptional level of comfort for our guests.",
     "cta": "Book Now"
   },
   "header": {
@@ -58,5 +58,51 @@
       "triple_room": "Perfect for families with three comfortable beds."
     },
     "read_more": "Read More"
+  },
+  "privileges": {
+    "title": "Privileges for Our Guests",
+    "description": "We offer the best conditions for your comfortable stay.",
+    "items": [
+      {
+        "title": "Buffet",
+        "description": "Hot dishes, fruits, dairy products, pastries, juice, coffee, and tea."
+      },
+      {
+        "title": "Breakfast",
+        "description": "The most important meal to boost your energy and metabolism."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "What Our Guests Receive",
+    "description": "Each client enjoys the following amenities during their stay at our hotel:",
+    "internet": {
+      "title": "High-Speed Internet",
+      "description": "Internet access in every room."
+    },
+    "lcd_tv": {
+      "title": "LCD TVs",
+      "description": "32-inch screen TVs in every room."
+    },
+    "air_conditioning": {
+      "title": "Air Conditioning",
+      "description": "Individual climate control system."
+    },
+    "bottled_water": {
+      "title": "Bottled Water",
+      "description": "2 bottles of water free daily."
+    },
+    "transfer": {
+      "title": "Transfer Service",
+      "description": "Transfer arrangements upon request."
+    },
+    "room_service": {
+      "title": "24/7 Room Service",
+      "description": "Round-the-clock room service."
+    },
+    "laundry_ironing": {
+      "title": "Laundry & Ironing",
+      "description": "Available upon request."
+    }
   }
 }
