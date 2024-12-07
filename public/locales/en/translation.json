@@ -12,18 +12,18 @@
     "booking": "Booking"
   },
   "about": {
-    "why_choose_us": "Why You Should Choose Us",
-    "main_title": "Simple and Convenient Interaction",
-    "process_title": "Simple Process",
-    "process_description": "Experience a hassle-free way to book your stay with us.",
-    "documentation_title": "Quick Documentation",
-    "documentation_description": "We ensure fast processing of accounting and travel documents.",
-    "group_services_title": "Special Group Services",
-    "group_services_description": "Request catering for groups of 5-40 guests.",
-    "discount_title": "Guaranteed Discounts",
-    "discount_description": "Enjoy discounted rates with guaranteed room bookings.",
-    "no_intermediaries_title": "No Intermediaries",
-    "no_intermediaries_description": "Save money by booking directly with us.",
+    "why_choose_us": "Why Choose Globus Hotel?",
+    "main_title": "A Perfect Blend of Comfort and Excellent Service",
+    "process_title": "Simple and Convenient Process",
+    "process_description": "Booking your stay is fast, simple, and hassle-free — make your experience enjoyable with Globus Hotel.",
+    "documentation_title": "Complete and Prompt Documentation",
+    "documentation_description": "We handle all necessary paperwork efficiently, ensuring a smooth experience for you.",
+    "group_services_title": "Special Amenities for Large Groups",
+    "group_services_description": "We offer tailored dining and services for groups of 5-40 people.",
+    "discount_title": "Experience with Guaranteed Discounts",
+    "discount_description": "Enjoy special discounts and exclusive perks with guaranteed bookings.",
+    "no_intermediaries_title": "Direct Service, No Intermediaries",
+    "no_intermediaries_description": "Save money by booking directly with us, without any intermediaries.",
     "read_more": "Read More"
   },
   "footer": {
@@ -40,24 +40,6 @@
     "map_title": "Our Location",
     "to_top": "Back to Top",
     "rights_reserved": "All rights reserved."
-  },
-  "rooms": {
-    "title": "Our Rooms",
-    "categories": {
-      "single_room": "Single Room",
-      "double_room": "Double Room",
-      "suite_single": "Suite (Single)",
-      "suite_double": "Suite (Double)",
-      "triple_room": "Triple Room"
-    },
-    "features": {
-      "single_room": "Comfortable bed, Wi-Fi, and private bathroom.",
-      "double_room": "Spacious room with double bed and modern amenities.",
-      "suite_single": "Luxurious single suite with premium facilities.",
-      "suite_double": "Double suite with spacious living area.",
-      "triple_room": "Perfect for families with three comfortable beds."
-    },
-    "read_more": "Read More"
   },
   "privileges": {
     "title": "Privileges for Our Guests",
@@ -103,6 +85,35 @@
     "laundry_ironing": {
       "title": "Laundry & Ironing",
       "description": "Available upon request."
+    }
+  },
+  "aboutHotel": {
+    "title": "Welcome to the Globus Hotel",
+    "paragraph1": "Nestled in the heart of the Yashnabad district, the Globus Hotel offers a blend of comfort and convenience for travelers. Whether you're visiting for business or leisure, our hotel provides an exceptional experience that caters to all your needs.",
+    "paragraph2": "Our rooms are thoughtfully designed with your comfort in mind. Enjoy high-speed internet, 32-inch LCD TVs, individual air conditioning, and complimentary bottled water to make your stay as pleasant as possible. With 24/7 room service and laundry options available upon request, we ensure that you feel at home.",
+    "paragraph3": "Start your day with a delightful breakfast at our buffet, featuring a variety of options such as hot dishes, fresh fruits, dairy products, meat cuts, pastries, and an assortment of beverages including juice, coffee, and tea. Breakfast isn't just a meal; it's an experience to fuel your day.",
+    "paragraph4": "For corporate clients, we offer unparalleled convenience. Our streamlined interaction process, quick documentation handling, and group dining options make us the preferred choice for businesses. With discounts on group bookings and no intermediaries, you save both time and money.",
+    "paragraph5": "Located near the iconic Retro Restaurant on Sandikli Street, our hotel is easily accessible and situated in a prime location. Reach out to us at +998 99 055 69 99 or via email at globushotelsgroup@gmail.com to book your stay. At the Globus Hotel, we don't just provide a service; we create unforgettable memories."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We would love to hear from you! Please fill out the form below.",
+    "namePlaceholder": "Your Name",
+    "numberPlaceholder": "Your Phone Number",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Send Message",
+    "successMessage": "Thank you! Your message has been sent.",
+    "errorMessage": "Oops! Something went wrong. Please try again."
+  },
+  "roomsSection": {
+    "title": "Rooms",
+    "rooms": {
+      "standardDoubleLargeBed": "Standard Double Room with Large Bed",
+      "standardDoubleTwinBeds": "Standard Double Room with Twin Beds",
+      "luxuryDoubleLargeBed": "Luxury Room with Large Bed",
+      "standardTriple": "Standard Triple Room",
+      "standardSingle": "Standard Single Room"
     }
   }
 }

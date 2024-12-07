@@ -12,18 +12,18 @@
     "booking": "Buyurtma qilish"
   },
   "about": {
-    "why_choose_us": "Nima uchun bizni tanlashingiz kerak",
-    "main_title": "Oddiy va qulay muloqot tartibi",
-    "process_title": "Oddiy jarayon",
-    "process_description": "Biz bilan yashash joyingizni oson va qulay tarzda bron qiling.",
-    "documentation_title": "Tezkor hujjatlar",
-    "documentation_description": "Buxgalteriya va sayohat hujjatlarini tezkor qayta ishlashni ta'minlaymiz.",
-    "group_services_title": "Guruh uchun maxsus xizmatlar",
-    "group_services_description": "5-40 kishilik guruhlar uchun ovqatlanishni so'rang.",
-    "discount_title": "Kafolatlangan chegirmalar",
-    "discount_description": "Kafolatlangan bron qilish bilan chegirmalardan bahramand bo'ling.",
-    "no_intermediaries_title": "Vositachilarsiz",
-    "no_intermediaries_description": "To'g'ridan-to'g'ri biz bilan bron qilish orqali pulni tejang.",
+    "why_choose_us": "Nima uchun Globus mehmonxonasini tanlash kerak?",
+    "main_title": "Qulaylik va mukammal xizmatlar uyg'unligi",
+    "process_title": "Oddiy va qulay jarayon",
+    "process_description": "Bronlash jarayoni tez, sodda va qulay — Globus mehmonxonasida yashashni yoqimli qiling.",
+    "documentation_title": "Toʻliq va tezkor hujjat tayyorlash",
+    "documentation_description": "Biz siz uchun barcha kerakli hujjatlarni tartibga keltiramiz va tezkor xizmat koʻrsatamiz.",
+    "group_services_title": "Katta guruhlar uchun maxsus qulayliklar",
+    "group_services_description": "5-40 kishilik guruhlar uchun maxsus ovqatlanish xizmatlarini taqdim etamiz.",
+    "discount_title": "Chegirmalar bilan mukammal tajriba",
+    "discount_description": "Kafolatlangan bronlash orqali maxsus chegirmalar va qo'shimcha afzalliklardan foydalaning.",
+    "no_intermediaries_title": "Bevosita xizmat va tejash",
+    "no_intermediaries_description": "Oraliq vositachilarsiz toʻgʻridan-toʻgʻri bron qiling va tejash imkoniyatiga ega boʻling.",
     "read_more": "Batafsil"
   },
   "footer": {
@@ -103,6 +103,35 @@
     "laundry_ironing": {
       "title": "Kir yuvish va dazmollash",
       "description": "So'rov bo'yicha mavjud."
+    }
+  },
+  "aboutHotel": {
+    "title": "Globus Mehmonxonasiga Xush Kelibsiz",
+    "paragraph1": "Yashnobod tumanining markazida joylashgan Globus mehmonxonasi sayohatchilar uchun qulaylik va komfortni uygʻunlashtiradi. Ish yoki dam olish uchun tashrif buyurishingizdan qat'i nazar, mehmonxonamiz barcha ehtiyojlaringizni qondiruvchi ajoyib tajribani taqdim etadi.",
+    "paragraph2": "Xonalarimiz sizning qulayligingizni hisobga olgan holda ishlab chiqilgan. Yuqori tezlikdagi internet, 32 dyuymli LCD televizorlar, individual konditsioner tizimi va har kuni bepul mineral suv sizning dam olishingizni yanada yoqimli qiladi. 24/7 xonaga xizmat koʻrsatish va kir yuvish xizmatlari mavjud.",
+    "paragraph3": "Kuningizni bizning bufetimizdagi ajoyib nonushta bilan boshlang, unda issiq taomlar, yangi mevalar, sut mahsulotlari, go‘sht bo‘laklari, pishiriqlar va sharbatlar, qahva va choy kabi ichimliklar mavjud. Nonushta nafaqat taom, balki kuningizni boshlash uchun tajribadir.",
+    "paragraph4": "Korporativ mijozlar uchun biz beqiyos qulayliklarni taklif qilamiz. Bizning oddiy muloqot jarayonimiz, tezkor hujjatlarni rasmiylashtirish va guruh ovqatlanish imkoniyatlarimiz biznes uchun afzal tanlovdir. Guruhli bron qilishda chegirmalar va vositachilarning yo‘qligi vaqtingiz va mablag‘ingizni tejaydi.",
+    "paragraph5": "Sandikli ko'chasidagi Retro restoran yonida joylashgan mehmonxonamiz oson yetib boriladigan va qulay joyda joylashgan. Biz bilan +998 99 055 69 99 telefon raqami yoki globushotelsgroup@gmail.com orqali bog‘laning. Globus mehmonxonasida biz faqat xizmat ko‘rsatmaymiz, balki unutilmas xotiralarni yaratamiz."
+  },
+  "contact": {
+    "title": "Bog'lanish",
+    "subtitle": "Biz sizdan xabar olishdan xursand bo'lamiz! Iltimos, quyidagi shaklni to'ldiring.",
+    "namePlaceholder": "Ismingiz",
+    "numberPlaceholder": "Telefon raqamingiz",
+    "emailPlaceholder": "Emailingiz",
+    "messagePlaceholder": "Xabaringiz",
+    "submitButton": "Xabar yuborish",
+    "successMessage": "Rahmat! Xabaringiz yuborildi.",
+    "errorMessage": "Xatolik yuz berdi! Iltimos, qaytadan urinib ko'ring."
+  },
+  "roomsSection": {
+    "title": "Xonalar",
+    "rooms": {
+      "standardDoubleLargeBed": "Katta Yotoqli Oddiy Ikki Kishilik Xona",
+      "standardDoubleTwinBeds": "Ikki Kishilik Oddiy Ikki Yotoqli Xona",
+      "luxuryDoubleLargeBed": "Hashamatli Katta Yotoqli Xona",
+      "standardTriple": "Oddiy Uch Kishilik Xona",
+      "standardSingle": "Oddiy Bir Kishilik Xona"
     }
   }
 }

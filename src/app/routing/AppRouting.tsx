@@ -9,13 +9,14 @@ import i18n from "../providers/i18n";
 import { I18nextProvider } from "react-i18next";
 import { ROUTES } from "./routing";
 import Layout from "../layouts/AppLayout";
+import Loading from "../../shared/ui/Loading";
 
 const AppRoutes = () => {
   return (
     <I18nextProvider i18n={i18n}>
       <Router>
         <AnimatePresence>
-          <Suspense fallback={<div>Loading...</div>}>
+          <Suspense fallback={<Loading />}>
             <Routes>
               <Route path={ROUTES.MAIN} element={<Layout />}>
                 <Route index path={ROUTES.MAIN} element={<MainPage />} />

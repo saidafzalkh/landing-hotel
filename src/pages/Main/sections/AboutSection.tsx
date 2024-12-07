@@ -16,7 +16,7 @@ const AboutSection = () => {
         </h1>
         {/* Supporting Text */}
         <div className="flex flex-col md:flex-row gap-8 items-center">
-          <div className="hidden sm:block">
+          <div className="hidden sm:flex justify-center items-center rounded-lg overflow-hidden">
             <img src={imageAbout} alt="" />
           </div>
           <div className="space-y-2 text-lg text-gray-600" data-aos="fade-up">
