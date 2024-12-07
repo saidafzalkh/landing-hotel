@@ -109,11 +109,12 @@
   "roomsSection": {
     "title": "Rooms",
     "rooms": {
-      "standardDoubleLargeBed": "Standard Double Room with Large Bed",
-      "standardDoubleTwinBeds": "Standard Double Room with Twin Beds",
-      "luxuryDoubleLargeBed": "Luxury Room with Large Bed",
-      "standardTriple": "Standard Triple Room",
-      "standardSingle": "Standard Single Room"
-    }
+      "standardDoubleLargeBed": "Стандартный двухместный номер с большой двуспальной кроватью",
+      "standardDoubleTwinBeds": "Стандартный двухместный номер с раздельными кроватями",
+      "luxuryDoubleLargeBed": "Роскошный номер с большой двуспальной кроватью",
+      "standardTriple": "Стандартный трехместный номер",
+      "standardSingle": "Стандартный одноместный номер"
+    },
+    "night": "Night"
   }
 }

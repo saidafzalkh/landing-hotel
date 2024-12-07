@@ -12,12 +12,10 @@ const AboutSection = () => {
           data-aos="fade-up"
         >
           {t("about.why_choose_us")}
-          {/* {t("about.main_title")} */}
         </h1>
-        {/* Supporting Text */}
-        <div className="flex flex-col md:flex-row gap-8 items-center">
-          <div className="hidden sm:flex justify-center items-center rounded-lg overflow-hidden">
-            <img src={imageAbout} alt="" />
+        <div className="flex flex-col lg:flex-row gap-8 items-center">
+          <div className="hidden lg:flex justify-center items-center rounded-lg overflow-hidden">
+            <img src={imageAbout} alt={t("about.why_choose_us")} />
           </div>
           <div className="space-y-2 text-lg text-gray-600" data-aos="fade-up">
             <p>

@@ -1,41 +1,52 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination } from "swiper/modules";
+import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
+import double from "../../../shared/assets/images/double.jpg";
+import doubleLux from "../../../shared/assets/images/double-lux.jpg";
+import tripli from "../../../shared/assets/images/tripli.jpg";
+import twin from "../../../shared/assets/images/twin.jpg";
+import Card from "../../../shared/ui/Card";
+
 const rooms = [
   {
     id: 1,
-    image: "/images/room1.jpg", // Update with actual image paths
-    titleKey: "rooms.standardDoubleLargeBed",
-    price: "$100/night",
+    image: double,
+    title: "Double Room",
+    name: "roomsSection.rooms.standardDoubleLargeBed",
+    price: "UZS 600 000 /",
   },
   {
     id: 2,
-    image: "/images/room2.jpg",
-    titleKey: "rooms.standardDoubleTwinBeds",
-    price: "$90/night",
+    image: twin,
+    title: "Twin Room",
+    name: "roomsSection.rooms.standardDoubleTwinBeds",
+    price: "UZS 500 000 /",
   },
   {
     id: 3,
-    image: "/images/room3.jpg",
-    titleKey: "rooms.luxuryDoubleLargeBed",
-    price: "$150/night",
+    image: doubleLux,
+    title: "Double Lux Room",
+    name: "roomsSection.rooms.luxuryDoubleLargeBed",
+    price: "UZS 800 000 /",
   },
   {
     id: 4,
-    image: "/images/room4.jpg",
-    titleKey: "rooms.standardTriple",
-    price: "$120/night",
+    image: tripli,
+    title: "Tripli Room",
+    name: "roomsSection.rooms.standardTriple",
+    price: "UZS 900 000 /",
   },
   {
     id: 5,
     image: "/images/room5.jpg",
-    titleKey: "rooms.standardSingle",
-    price: "$70/night",
+    title: "Single Room",
+    name: "roomsSection.rooms.standardSingle",
+    price: "UZS 450 000 /",
   },
 ];
 
@@ -53,28 +64,24 @@ const RoomsSection: React.FC = () => {
           slidesPerView={1}
           navigation
           pagination={{ clickable: true }}
+          autoplay={{ delay: 5000 }}
           breakpoints={{
             640: { slidesPerView: 1 },
             768: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
           }}
-          modules={[Navigation, Pagination]}
+          modules={[Navigation, Pagination, Autoplay]}
+          loop={true}
         >
           {rooms.map((room) => (
             <SwiperSlide key={room.id}>
-              <div className="bg-white shadow-md rounded-lg overflow-hidden">
-                <img
-                  src={room.image}
-                  alt={t(room.titleKey)}
-                  className="w-full h-48 object-cover"
-                />
-                <div className="p-4">
-                  <h3 className="text-2xl font-semibold mb-2">
-                    {t(room.titleKey)}
-                  </h3>
-                  <p className="text-xl text-gray-600">{room.price}</p>
-                </div>
-              </div>
+              <Card
+                image={room.image}
+                name={t(room.name)}
+                night={t("roomsSection.night")}
+                price={room.price}
+                title={room.title}
+              />
             </SwiperSlide>
           ))}
         </Swiper>

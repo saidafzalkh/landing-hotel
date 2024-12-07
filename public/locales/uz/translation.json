@@ -41,24 +41,6 @@
     "to_top": "Yuqoriga qaytish",
     "rights_reserved": "Barcha huquqlar himoyalangan."
   },
-  "rooms": {
-    "title": "Bizning Xonalarimiz",
-    "categories": {
-      "single_room": "Yakka xona",
-      "double_room": "Ikki kishilik xona",
-      "suite_single": "Lyuks (Yakka)",
-      "suite_double": "Lyuks (Ikki kishilik)",
-      "triple_room": "Uch kishilik xona"
-    },
-    "features": {
-      "single_room": "Qulay yotoq, Wi-Fi va shaxsiy hammom.",
-      "double_room": "Keng xona, ikki kishilik karavot va zamonaviy qulayliklar.",
-      "suite_single": "Bitta odam uchun hashamatli lyuks.",
-      "suite_double": "Ikki kishilik lyuks, katta yashash maydoni bilan.",
-      "triple_room": "Oilalar uchun mo‘ljallangan, uchta qulay karavot."
-    },
-    "read_more": "Batafsil"
-  },
   "privileges": {
     "title": "Bizning mehmonlarimiz uchun imtiyozlar",
     "description": "Sizning qulay dam olishingiz uchun eng yaxshi sharoitlarni taklif qilamiz.",
@@ -132,6 +114,7 @@
       "luxuryDoubleLargeBed": "Hashamatli Katta Yotoqli Xona",
       "standardTriple": "Oddiy Uch Kishilik Xona",
       "standardSingle": "Oddiy Bir Kishilik Xona"
-    }
+    },
+    "night": "Kecha"
   }
 }
